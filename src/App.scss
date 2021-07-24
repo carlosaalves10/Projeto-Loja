@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+@import '../node_modules/bulma/sass/utilities/_all.sass';
+@import '../node_modules/bulma/sass/elements/button.sass';
+@import '../node_modules/bulma/sass/elements/container.sass';
+@import '../node_modules/bulma/sass/layout/hero.sass';
+
+.app {
+    position: relative;
+    min-height: 100vh;
+}
+
+img {
+    width: 100%;
+}
+
+.nomad-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#shop-now {
+    font-weight: 600;
+    &:hover {
+        background-color: #606060;
+    }
+}
+
+.featured-collection{
+    margin-top: 6rem;
+
+.featured-section-title{
+    font-size: 2rem;
+}
+
+.featured-image{
+    cursor: pointer;
+}
+
+@media(min-width: 1024px){
+    .products{
+        display: flex;
+        justify-content: space-between;
+        padding: 5px;
+
+    .featured-product{
+        margin: 10px;
+    }
+}
+}
+}
+
