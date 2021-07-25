@@ -7,3 +7,4 @@ Foi utilizado as tecnologias de:
 React
 Javascript
 CSS
+Node Js
