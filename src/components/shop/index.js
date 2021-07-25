@@ -4,7 +4,7 @@ const SHOP_DATA = [
         title: 'Refrigerador Electrolux TF55S com Prateleira Reversível Platinum – 431L',
         description: 'Refrigerador Electrolux TF55S com Prateleira Reversível Platinum – 431L',
         imageUrl: 'https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1115756342',
-        price: 3229.00,
+        price: 3229.79,
     },
 
     {
@@ -20,7 +20,7 @@ const SHOP_DATA = [
         title: 'Cozinha Compacta Madesa Emilly Free com Armário e Balcão - Rustic/Preto',
         description: 'Cozinha Compacta Madesa Emilly Free com Armário e Balcão - Rustic/Preto',
         imageUrl: 'https://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259027123./A304F7858BDF88F9333F07443588D219/standard_resolution.jpg',
-        price: 689.00,
+        price: 689.59,
     },
 
     {
@@ -28,7 +28,7 @@ const SHOP_DATA = [
         title: 'Fogão de Piso Suggar Max Cook 4 Queimadores Preto Bivolt FGV402PT',
         description: 'Fogão de Piso Suggar Max Cook 4 Queimadores Preto Bivolt FGV402PT',
         imageUrl: 'https://cookeletroraro.vteximg.com.br/arquivos/ids/173715/fogao-de-piso-suggar-max-cook.jpg?v=637273990439630000',
-        price: 899.00,
+        price: 899.59,
     },
 
     {
@@ -44,7 +44,7 @@ const SHOP_DATA = [
         title: 'Kit Facile Blender - Panela Elétrica - Chaleira Oster',
         description: 'Kit Facile Blender - Panela Elétrica - Chaleira Oster',
         imageUrl: 'https://jcsbrasil.vteximg.com.br/arquivos/ids/176015/Kit-Facile-Blender-Panela-Eletrica-Chaleira-Oster.jpg?v=637308449239900000',
-        price: 499.90,
+        price: 499.99,
     },
 
     {
